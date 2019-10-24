@@ -1,5 +1,5 @@
 # Design patterns
-Little project demonstrating design patterns with Kotlin
+Little project demonstrating desing patterns with Kotlin
  
  - Strategy
  - Chain of responsibility
